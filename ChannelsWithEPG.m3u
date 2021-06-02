@@ -25,7 +25,7 @@ https://bit.ly/35EmGO5
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-id="cyta.greekcinema.cy" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
